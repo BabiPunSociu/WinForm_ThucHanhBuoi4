@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\ThucHanh4.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\ThucHanh4.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\ThucHanh4.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.csproj.CopyComplete
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.pdb
